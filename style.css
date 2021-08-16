@@ -1,0 +1,116 @@
+body{
+  font-family:system-ui;
+}
+/************************** tittle ******************************/
+#tittle{
+background-color: #ff4c68;
+}
+.fs-1{
+font-size: 3.5rem;
+font-height:1.5;
+color: white;
+ }
+.fluid-containers{
+  padding: 3% 15%;
+}
+.navbar-brand {
+font-size:100%;
+font-weight: bold;
+padding-right:50%;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.row{
+  padding-top: 8%;
+}
+.btn{
+  margin: 5% 3% 5% 0%;
+}
+.imgd{
+  width: 50%;
+  transform: rotate(20deg);
+  
+}
+/****************** Features *************************/
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  
+}
+.p{
+  color: #8f8f8f;
+}
+.features-box {
+  padding: 4.5% ;
+  text-align: center;
+  font-size: 20px;
+  }
+
+.fas{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.fas:hover{
+  color: #ff4c68;
+}
+/***********************testimonial******************/
+#testimonial{
+  padding: 3%;
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+.carousel-item{
+padding: 7% 15%;
+}
+.testimonial-img{
+  width: 15%;
+  border-radius: 90%;
+  margin: 20px;
+}
+.h2{
+  font-size: 60%;
+  line-height: 2;
+ }
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-img{
+  width: 70%;
+  margin:auto;
+}
+/************************pricing ***************************/
+#pricing{
+ padding:8%;
+text-align: center;
+}
+/*************************** cta ******************************/
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+  font-family:  'Arial Narrow Bold';
+text-align: center;
+}
+/*************************** footer ******************************/
+#footer{
+  padding: 3% 15%;
+  text-align: center;
+}
+.iconsl{
+  margin: 20px 10px;
+}
+
+/*************************** media ******************************/
+/**@media(max-width: 400px){
+  h3{
+    font-size:20px;
+  }
+  .p{
+    font-size: 50px;
+  }
+}
+**/
